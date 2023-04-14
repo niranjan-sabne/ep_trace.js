@@ -1,0 +1,35 @@
+{
+	"name": "ep_trace.js",
+	"version": "1.0.0",
+	"description": "Enhanced Feeatured EtherPad Plugin",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/niranjan-sabne/ep_trace.js.git"
+	},
+	"keywords": [
+		"etherpad",
+		"track etherpad",
+		"trace etherpad"
+	],
+	"author": "Niranjan Sabne <1neel.sabne@gmail.com> (https://github.com/niranjan-sabne)",
+	"contributors": [
+		{
+			"name": "Niranjan Sabne",
+			"url": "https://github.com/niranjan-sabne"
+		},
+		{
+			"name": "Manoj Jadhav",
+			"url": "https://github.com/#"
+		}
+	],
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/niranjan-sabne/ep_trace.js/issues"
+	},
+	"homepage": "https://github.com/niranjan-sabne/ep_trace.js#readme"
+}
